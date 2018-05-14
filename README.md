@@ -1,5 +1,6 @@
 # hacker_news_light
 HackerNews Reader made by Flutter
+
 <img src="https://i.imgur.com/z82SPIp.gif" width=400>
 
 Reference: https://github.com/ntaoo/hacker_news_light
